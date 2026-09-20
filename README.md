@@ -41,8 +41,7 @@ Balanced panel
 
 ## Full Report
 
-[Read the full research report](report/EKC_Asia_Report.pdf)
-
+[Read the full research report](EKC_Asia_Report.pdf)
 
 
 ...
